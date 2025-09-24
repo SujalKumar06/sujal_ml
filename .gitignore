@@ -1,0 +1,17 @@
+# Python (random python files)
+__pycache__/
+*.pyc
+.DS_Store
+
+# Conda/Venv (env files)
+venv/
+env/
+
+# Build artifacts (build and all)
+build/
+dist/
+*.egg-info/
+
+# IDE files (vscode sometimes create .vscode on its own)
+.idea/
+.vscode/
