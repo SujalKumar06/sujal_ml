@@ -1,3 +1,3 @@
-from .core import hello
+from .sgd import sgd
 
 __version__ = "0.0.1"
